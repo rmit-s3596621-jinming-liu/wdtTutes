@@ -4,9 +4,10 @@ namespace wdtTute01
 {
     class Program
     {
-        static void Main(string[] args)
+        static void MainZ(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
